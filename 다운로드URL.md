@@ -6,9 +6,12 @@ guard884@gmail.com
  \\\192.168.15.31
 
 ## 구글드라이브
-https://drive.google.com/drive/folders/1VJGCZ0O1KhVUNuMdC7MMqfSCQaXuVNtr?usp=sharing
+https://drive.google.com/drive/folders/1VJGCZ0O1KhVUNuMdC7MMqfSCQaXuVNtr
 
 ## GITHUB 
+https://github.com/2022-11-JAVA-DEVELOPER/01.JAVA_FUNDMENTAL
+https://github.com/2022-11-JAVA-DEVELOPER
+
 
 
 ## 크롬부라우져
