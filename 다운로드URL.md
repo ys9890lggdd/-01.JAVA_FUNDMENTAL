@@ -3,9 +3,10 @@ guard884@gmail.com
 
 
 ## 강사PC
- \\192.168.15.31
+ \\\192.168.15.31
 
 ## 구글드라이브
+https://drive.google.com/drive/folders/1VJGCZ0O1KhVUNuMdC7MMqfSCQaXuVNtr?usp=sharing
 
 ## GITHUB 
 
