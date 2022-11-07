@@ -25,11 +25,14 @@ https://notepad-plus-plus.org/downloads/
 
 ## JDK
 http://www.oracle.com/index.html
+
 https://www.oracle.com/java/technologies/downloads/#java8-windows
 
 ## 이클립스
 https://www.eclipse.org/downloads/packages/release
+
 https://www.eclipse.org/downloads/packages/release/2020-12/r
+
 
 ## 이클립스 플러그인
  #### window builder
