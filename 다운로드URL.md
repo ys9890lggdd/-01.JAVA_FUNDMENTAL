@@ -42,6 +42,9 @@ https://www.eclipse.org/downloads/packages/release
 ## 이클립스 플러그인
  #### window builder
  http://download.eclipse.org/windowbuilder/latest/
+ 
+ https://download.eclipse.org/windowbuilder/1.9.6/
+ 
  #### properties editor
  http://propedit.sourceforge.jp/eclipse/updates/
  #### UML,ERD
